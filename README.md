@@ -13,6 +13,12 @@ Namespace using the namespace we can isolate resource...It can be simply called 
 
 ContainerD:
 USing this function we give feature to the container.Such as api to upload the images,APIs to download the images.
+
+docker run containername (to run the container)
+
+docker run -d containername (Which will run the background by detaching the from the terminal)
+
+
 _____________________________________
 patchigolladurgesh UN
 you know  Password
